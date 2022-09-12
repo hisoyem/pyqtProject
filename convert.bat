@@ -1,0 +1,1 @@
+pyuic6 ui_dialog.ui -o ui_dialog.py
